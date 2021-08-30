@@ -2,6 +2,6 @@
 Realtime chat app developed using Node.js, Express and Socket.io 
 
 ## Usage
-npm install
-npm run dev
-Go to localhost:3000
+npm install<br />
+npm run dev<br />
+Go to localhost:3000<br />
